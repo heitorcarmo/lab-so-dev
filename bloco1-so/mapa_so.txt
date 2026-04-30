@@ -180,4 +180,4 @@ filesystems                  lftp.conf      pam.d                  sgml         
 # e que rotinas de dispositivo traduziam comandos.
 # Em qual diretório do Linux você reconhece essa função?
 
-Resposta: 
+Resposta: No diretorio /proc ele traduz os comandos para arquivo mostrando oque esta no kernel
